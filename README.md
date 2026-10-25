@@ -43,11 +43,6 @@ The raw file was left untouched.
 | Churn by internet service | Fiber optic users churn the most (about 41%), customers with no internet the least (about 18%) |
 | Monthly charges by churn | Churned customers pay about 80 per month on average vs 70 for the others |
 
-![Churn count](screenshots/churn_count.png)
-![Churn by contract](screenshots/churn_by_contract.png)
-![Tenure by churn](screenshots/tenure_by_churn.png)
-![Churn by internet service](screenshots/churn_by_internet.png)
-![Monthly charges by churn](screenshots/monthly_charges.png)
 
 ## Feature Engineering
 
@@ -64,7 +59,8 @@ The raw file was left untouched.
 
 ### Confusion Matrices (tuned models)
 
-![Confusion matrices](screenshots/confusion_matrices.png)
+<img width="757" height="329" alt="image" src="https://github.com/user-attachments/assets/9e48112d-26cc-45e5-ab63-7ec77860c998" />
+
 
 ## Results
 
@@ -89,7 +85,8 @@ The notebook ends with an interactive form (Google Colab) where you enter custom
 
 Inputs: gender, partner, tenure months, monthly charges, total charges, internet service, payment method, contract type.
 
-![Prediction form](screenshots/prediction_form.png)
+<img width="1508" height="341" alt="image" src="https://github.com/user-attachments/assets/4470b83e-0fa0-4a4c-b473-94b7838286e9" />
+
 
 ## How to Run
 

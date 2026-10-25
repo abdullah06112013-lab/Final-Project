@@ -101,11 +101,8 @@ Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost, joblib.
 
 ```
 telecom-churn-prediction/
-├── final_project_fixed.ipynb
 ├── telecom_churn_raw.csv
 ├── telecom_churn_clean.csv
 ├── churn_model.pkl
-├── Telecom-Customer-Churn-Prediction.pptx
-├── screenshots/
-└── README.md
+
 ```
